@@ -12,9 +12,10 @@ The information extracted:
 All the data collected is dumped into allBooks.csv
 
 
-How to...
-i) Download Selenium webdriver for Chrome
-ii) Change line 40 to the proper path
-iii) Run spider.py
-iv) ??
-v) Success!! 
+How to... <br />
+i) Download Selenium webdriver for Chrome <br />
+ii) Get Beautifulsoup and Selenium Python modules <br />
+iii) Change line 40 to the proper path <br />
+iv) Run spider.py <br />
+v) ?? <br />
+vi) Success!! <br />
